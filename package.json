@@ -1,0 +1,22 @@
+{
+  "name": "4-sign-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zilvinas <svirskaszilvinas@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dead": "^0.0.2",
+    "live": "^0.1.25-beta.0",
+    "server": "^1.0.37"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0"
+  }
+}
