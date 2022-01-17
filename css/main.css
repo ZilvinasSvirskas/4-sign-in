@@ -18,9 +18,9 @@ body{
 }
 
 .container > .left-column{
-   float: left;
     width: 40%;
     padding: 40px;
+    float: left;
     background-color: #4d88dd;
 }
 .container > .right-column{
@@ -31,3 +31,20 @@ body{
     
 }
 
+.main-title{
+    font-weight: normal;
+}
+.bottom-links{
+    color: #fff8ff;
+
+}
+.bottom-links > .link{
+    color: #fff8ff;
+}
+.bottom-links > .link:hover{
+    color: #fff;
+}
+.bottom-links > .symbol{
+    color: #fff8ff;
+
+}
